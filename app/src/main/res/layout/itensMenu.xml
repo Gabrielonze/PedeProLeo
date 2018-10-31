@@ -36,7 +36,8 @@
             android:id="@+id/textView5"
             android:layout_width="197dp"
             android:layout_height="wrap_content"
-            android:text="Item" />
+            android:text="Item"
+            android:textSize="18sp" />
 
         <LinearLayout
             android:layout_width="wrap_content"
@@ -52,7 +53,7 @@
                 android:textSize="16sp" />
 
             <Button
-                android:id="@+id/pedidoItemButton1"
+                android:id="@+id/pedidoItemButton2"
                 android:layout_width="wrap_content"
                 android:layout_height="62dp"
                 android:layout_weight="1"
